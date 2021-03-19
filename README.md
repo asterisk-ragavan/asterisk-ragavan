@@ -11,7 +11,7 @@
  Sending my selfies to NASA because I’m a star 🌟
  Ed Sheeran fan (Angelo Mysterioso)🎸
 
-🌪️Eminem AKA rap God🕳️
+- 🌪️Eminem AKA rap God🕳️
  (Selena Gomez 🍓,anna of the north 🌺,Millie Bobby brown 😍)
  **MJ - you r not alone, blackstreet, boy's to men**
  Some of the singers (music addiction)👆
