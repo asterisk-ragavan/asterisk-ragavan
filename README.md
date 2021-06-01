@@ -28,6 +28,9 @@
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="sakthi-ragavan-59146a212" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/sakthi-ragavan-59146a212?trk=profile-badge">Sakthi ragavan</a></div>
+              
+              
 
 <br />
 </details>
