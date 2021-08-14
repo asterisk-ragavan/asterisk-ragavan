@@ -10,9 +10,6 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects,and learn new programming languages 
 - ⚡ Fun fact: I love to draw and work with music instruments (I've got 2 state-level drawing exam with high first-class)
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ### 😎 bio - 
   Welcome to my 👑dom
