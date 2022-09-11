@@ -7,11 +7,11 @@
 - 👀 I am doing a bachelor of engineering electronics and communication engineering  
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects,and learn new programming languages (Python, data analysis and SQL)
+- 🥅 2022 Goals: Contribute more to Open Source projects,and learn new programming languages (Python, data analysis and SQL)
 - ⚡ Fun fact: I love to draw and work with music instruments (I've got 2 state-level drawing exam with high first-class)
 
 
-### 😎 bio - 
+### 😎 bio  
   Welcome to my 👑dom
  Sending my selfies to NASA because I’m a star 🌟
  Ed Sheeran fan (Angelo Mysterioso)🎸
