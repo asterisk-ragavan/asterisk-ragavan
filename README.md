@@ -1,8 +1,8 @@
+## Hi there, I'm sakthi ragavan - aka sheerio_sakthi 👋
 
- 
-### Hi there, I'm sakthi ragavan - aka sheerio_sakthi 👋
+### I'm a student, Developer!!
 
-## I'm a student, Developer!!
+<img width="40%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
 - 👀 I am doing a bachelor of engineering electronics and communication engineering  
 - 🌱 I’m currently learning everything 🤣
@@ -21,6 +21,18 @@
  **MJ - you r not alone, blackstreet, boy's to men**
  Some of the singers (music addiction)👆
  
+ ## My Github Stats:
+
+<table class="center" style="width:100%;">
+  <tr>
+    <td align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=asterisk-ragavan&show_icons=true&count_private=true&include_all_commits=true&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false&hide_border=true" />
+    </td>
+    <td align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asterisk-ragavan&langs_count=11&&layout=compact&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false&hide_border=true" />
+</td>
+  </tr>
+</table>
  
 ### Connect with me:
 
