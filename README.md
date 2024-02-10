@@ -1,14 +1,14 @@
-## Hi there, I'm sakthi ragavan - aka sheerio_sakthi 👋
+## Hi there, I'm Sakthi Ragavan - aka sheerio_sakthi 👋
 
 ### I'm a student, Developer!!
 
 <img width="30%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-- 👀 I am doing a bachelor of engineering electronics and communication engineering  
+- 👀 I am doing a Bachelor of engineering electronics and communication engineering  
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects,and learn new programming languages (Python, data analysis and SQL)
-- ⚡ Fun fact: I love to draw and work with music instruments (I've got 2 state-level drawing exam with high first-class)
+- 🥅 2024 Goals: Contribute more to Open Source projects, and learn new programming languages (Python, data analysis, and SQL)
+- ⚡ Fun fact: I love to draw and work with musical instruments (I've got 2 state-level drawing exams with high first-class)
 
 
 ### 😎 bio  
@@ -18,7 +18,7 @@
 
 - 🌪️Eminem AKA rap God🕳️
  (Selena Gomez 🍓,anna of the north 🌺,Millie Bobby brown 😍)
- **MJ - you r not alone, blackstreet, boy's to men**
+ **MJ - you're not alone, Blackstreet, boy's to men**
  Some of the singers (music addiction)👆
  
  ## My Github Stats:
