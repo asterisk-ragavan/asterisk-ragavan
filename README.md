@@ -7,7 +7,7 @@
 - 👀 I am doing a Bachelor of engineering electronics and communication engineering  
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2024 Goals: Contribute more to Open Source projects, and learn new programming languages (Python, data analysis, and SQL)
+- 🥅 2025 Goals: Contribute more to Open Source projects, and learn new programming languages (Python, data analysis, and SQL)
 - ⚡ Fun fact: I love to draw and work with musical instruments (I've got 2 state-level drawing exams with high first-class)
 
 
