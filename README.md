@@ -1,56 +1,121 @@
-## Hi there, I'm Sakthi Ragavan - aka sheerio_sakthi 👋
+<div align="center">
 
-### I'm a student, Developer!!
+<!-- HEADER & TYPING SVG -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F8D866&center=true&vCenter=true&width=435&lines=Hi+there!+%F0%9F%91%8B;I'm+Sakthi+Ragavan;aka+sheerio_sakthi;Developer+%26+Student" alt="Typing SVG" />
 
-<img width="30%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+<!-- SOCIALS -->
+<p align="center">
+  <a href="https://www.instagram.com/__sheerio_sakthi__/"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/></a>
+  <a href="https://www.linkedin.com/in/sakthi-ragavan/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
+  <a href="https://asterisk-ragavan.github.io/"><img src="https://skillicons.dev/icons?i=github" alt="Website"/></a>
+  <!-- Add other socials if needed -->
+</p>
 
-- 👀 I am doing a Bachelor of engineering electronics and communication engineering
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2025 Goals: Contribute more to Open Source projects, and learn new programming languages (Python, data analysis, and SQL)
-- ⚡ Fun fact: I love to draw and work with musical instruments (I've got 2 state-level drawing exams with high first-class)
+<br/>
 
+<!-- LEETCODE STATS (HIGHLIGHT) -->
+<h2>🚀 LeetCode Status</h2>
 
-### 😎 bio
-  Welcome to my 👑dom
- Sending my selfies to NASA because I’m a star 🌟
- Ed Sheeran fan (Angelo Mysterioso)🎸
+<!--
+THEME OPTIONS (Uncomment the one you like):
+1. Dark (Current): theme=dark
+2. Light: theme=light
+3. Nord: theme=nord
+4. Dracula: theme=dracula
+5. Night Owl: theme=nightowl
+-->
 
-- 🌪️Eminem AKA rap God🕳️
- (Selena Gomez 🍓,anna of the north 🌺,Millie Bobby brown 😍)
- **MJ - you're not alone, Blackstreet, boy's to men**
- Some of the singers (music addiction)👆
+<!-- Advanced LeetCode Stats Card -->
+<a href="https://leetcode.com/sakthiragavan/">
+  <img src="https://leetcode-stats-six.vercel.app/?username=sakthiragavan&theme=dark" alt="LeetCode Stats" />
+</a>
 
- ## My Github Stats:
+<br/><br/>
 
-<table class="center" style="width:100%;">
-  <tr>
-    <td align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=asterisk-ragavan&hide=contribs&show_icons=true&count_private=true&include_all_commits=true&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false&hide_border=true" />
-    </td>
-    <td align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asterisk-ragavan&langs_count=11&&layout=compact&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true&show_icons=false&hide_border=true" />
-</td>
-  </tr>
-</table>
+<!-- GITHUB STATS -->
+<h2>📊 GitHub Analytics</h2>
 
-### Connect with me:
+<div align="center">
+  <!--
+  THEME OPTIONS:
+  Replace 'bg_color=060B0D' and 'icon_color=F8D866' with standard themes like '&theme=dracula' or '&theme=radical'.
+  -->
 
-[<img align="left" alt="sheerio | Instagram" width="40px" src="https://user-images.githubusercontent.com/75389172/200889430-74d52ab5-b94e-4979-8efb-544e7bbe4242.svg" />][instagram]
-[<img align="left" alt="sheerio | youtube" width="40px" src="https://user-images.githubusercontent.com/75389172/200890970-da2693fd-d297-4ccf-be0d-7e442c5a3f04.svg" />][youtube]
-[<img align="left" alt="sheerio | telegram" width="40px" src="https://user-images.githubusercontent.com/75389172/200892281-86a9eee1-b5d4-4ab0-bc1e-4981011262e6.svg" />][telegram]
-[<img align="left" alt="sheerio | whatsapp" width="40px" src="https://user-images.githubusercontent.com/75389172/200892440-1c5f6c44-ee5f-4c36-818d-6348d1fc2ee2.svg" />][whatsapp]
-[<img align="left" alt="sheerio | snapchat" width="40px" src="https://user-images.githubusercontent.com/75389172/200892635-0ad31435-25b4-4657-aece-eab3ca16fe5d.svg" />][snapchat]
-[<img align="left" alt="sheerio | linkedin" width="40px" src="https://user-images.githubusercontent.com/75389172/200892767-16ed4571-d719-4ff6-b534-2b8a45a6f54c.svg" />][linkedin]
-[<img align="left" alt="sheerio | website" width="40px" src="https://user-images.githubusercontent.com/75389172/200893053-b75e266e-26e5-4ded-8ae3-9539878ce9a2.png" />][website]
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=asterisk-ragavan&show_icons=true&count_private=true&include_all_commits=true&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true" height="150" alt="GitHub Stats" />
 
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asterisk-ragavan&langs_count=8&layout=compact&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true" height="150" alt="Top Languages" />
+</div>
+
+<br/>
+
+<!-- TECH STACK -->
+<h2>🛠️ Tech Stack</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,css,js,mysql,git,vscode,py" alt="My Skills" />
+</p>
+
+<br/>
+
+<!-- VISUALIZATIONS -->
+<h2>🐍 Contribution Snake</h2>
+<!--
+This snake animation is generated by the GitHub Action in .github/workflows/snake.yml
+It updates automatically.
+-->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asterisk-ragavan/asterisk-ragavan/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asterisk-ragavan/asterisk-ragavan/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/asterisk-ragavan/asterisk-ragavan/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br/><br/>
+
+<h2>🏙️ 3D Contribution City</h2>
+<!--
+This 3D city is generated by the GitHub Action in .github/workflows/profile-3d.yml
+It updates automatically.
+
+THEME OPTIONS (Uncomment the one you like):
+
+1. Night Rainbow (Current)
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D City" width="100%"/>
+
+2. Royal (Gold/Dark)
+<!-- <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D City" width="100%"/> -->
+
+3. Northern Lights (Cool Blue/Green)
+<!-- <img src="./profile-3d-contrib/profile-northern-lights.svg" alt="3D City" width="100%"/> -->
+
+4. Green (Classic GitHub)
+<!-- <img src="./profile-3d-contrib/profile-green.svg" alt="3D City" width="100%"/> -->
+
+5. Season (Changes with time)
+<!-- <img src="./profile-3d-contrib/profile-season.svg" alt="3D City" width="100%"/> -->
+-->
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D City" width="100%"/>
+
+<br/><br/>
+
+<!-- BIO / PERSONAL -->
+<details>
+<summary>⚡ More About Me</summary>
 <br />
+
+- 🎓 **Education**: Bachelor of Engineering in Electronics and Communication.
+- 🌱 **Learning**: Exploring Python, Data Analysis, and SQL.
+- 👯 **Collaboration**: Looking to collaborate with content creators.
+- 🥅 **2025 Goals**: Contribute to Open Source & master new languages.
+- 🎨 **Fun Fact**: I love to draw (State-level award winner!) and play musical instruments.
+- 🎧 **Music Taste**: Ed Sheeran, Eminem, Selena Gomez. *MJ - You're not alone.*
+
 </details>
 
-[youtube]: https://www.youtube.com/channel/UCG2LKkG7iu259-iE17v8N4Q
-[instagram]: https://www.instagram.com/__sheerio_sakthi__/
-[telegram]: https://t.me/Sheerio_sakthi
-[whatsapp]: https://web.whatsapp.com/send/?phone=919110421913
-[snapchat]: https://www.instagram.com/__sheerio_sakthi__/
-[website]:  https://asterisk-ragavan.github.io/
-[linkedin]: https://www.linkedin.com/in/sakthi-ragavan/
+<br />
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
+
+</div>
