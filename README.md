@@ -5,13 +5,16 @@
 
 <!-- SOCIALS -->
 <p align="center">
-  <a href="https://www.instagram.com/__sheerio_sakthi__/"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/></a>
-  <a href="https://www.linkedin.com/in/sakthi-ragavan/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
-  <a href="https://asterisk-ragavan.github.io/"><img src="https://skillicons.dev/icons?i=github" alt="Website"/></a>
-  <!-- Add other socials if needed -->
+  <a href="https://www.instagram.com/__sheerio_sakthi__/"><img align="left" alt="sheerio | Instagram" width="40px" src="https://user-images.githubusercontent.com/75389172/200889430-74d52ab5-b94e-4979-8efb-544e7bbe4242.svg" /></a>
+  <a href="https://www.youtube.com/channel/UCG2LKkG7iu259-iE17v8N4Q"><img align="left" alt="sheerio | youtube" width="40px" src="https://user-images.githubusercontent.com/75389172/200890970-da2693fd-d297-4ccf-be0d-7e442c5a3f04.svg" /></a>
+  <a href="https://t.me/Sheerio_sakthi"><img align="left" alt="sheerio | telegram" width="40px" src="https://user-images.githubusercontent.com/75389172/200892281-86a9eee1-b5d4-4ab0-bc1e-4981011262e6.svg" /></a>
+  <a href="https://web.whatsapp.com/send/?phone=919110421913"><img align="left" alt="sheerio | whatsapp" width="40px" src="https://user-images.githubusercontent.com/75389172/200892440-1c5f6c44-ee5f-4c36-818d-6348d1fc2ee2.svg" /></a>
+  <a href="https://www.instagram.com/__sheerio_sakthi__/"><img align="left" alt="sheerio | snapchat" width="40px" src="https://user-images.githubusercontent.com/75389172/200892635-0ad31435-25b4-4657-aece-eab3ca16fe5d.svg" /></a>
+  <a href="https://www.linkedin.com/in/sakthi-ragavan/"><img align="left" alt="sheerio | linkedin" width="40px" src="https://user-images.githubusercontent.com/75389172/200892767-16ed4571-d719-4ff6-b534-2b8a45a6f54c.svg" /></a>
+  <a href="https://asterisk-ragavan.github.io/"><img align="left" alt="sheerio | website" width="40px" src="https://user-images.githubusercontent.com/75389172/200893053-b75e266e-26e5-4ded-8ae3-9539878ce9a2.png" /></a>
 </p>
 
-<br/>
+<br/><br/>
 
 <!-- LEETCODE STATS (HIGHLIGHT) -->
 <h2>🚀 LeetCode Status</h2>
@@ -46,6 +49,10 @@ THEME OPTIONS (Uncomment the one you like):
 
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asterisk-ragavan&langs_count=8&layout=compact&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true" height="150" alt="Top Languages" />
+
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asterisk-ragavan&theme=react&bg_color=060B0D&icon_color=F8D866&hide_border=true" height="150" alt="Streak Stats" />
+
 </div>
 
 <br/>
@@ -53,7 +60,7 @@ THEME OPTIONS (Uncomment the one you like):
 <!-- TECH STACK -->
 <h2>🛠️ Tech Stack</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,css,js,mysql,git,vscode,py" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,css,js,mysql,git,vscode" alt="My Skills" />
 </p>
 
 <br/>
