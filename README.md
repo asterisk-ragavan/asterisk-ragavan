@@ -12,7 +12,7 @@
 <!-- Trophies -->
 <div align="center">
   <h3>🏆 Achievements</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=asterisk-ragavan&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=asterisk-ragavan&theme=radical&no-frame=true&no-bg=true" alt="Trophies" />
 </div>
 
 ---
@@ -53,17 +53,27 @@
 <div align="center">
   <h3>📊 Statistics & Gaming</h3>
 
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=asterisk-ragavan&show_icons=true&theme=radical&rank_icon=github&count_private=true" alt="Stats" height="180"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=asterisk-ragavan&theme=radical" alt="Streak" height="180"/>
-  </p>
-
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asterisk-ragavan&layout=compact&theme=radical" alt="Top Langs" height="180"/>
-  </p>
+  <!-- Compact Stats Layout -->
+  <table align="center">
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=asterisk-ragavan&show_icons=true&theme=radical&rank_icon=github&count_private=true" alt="Stats" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=asterisk-ragavan&theme=radical" alt="Streak" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asterisk-ragavan&layout=compact&theme=radical&langs_count=8" alt="Top Langs" />
+      </td>
+    </tr>
+  </table>
 
   <h3>💻 LeetCode Status</h3>
-  <img src="https://leetcard.jacoblin.cool/asterisk-ragavan?theme=radical&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+  <!-- UPDATE YOUR LEETCODE USERNAME BELOW in the URL where it says 'INSERT_YOUR_LEETCODE_USERNAME_HERE' -->
+  <!-- Note: LeetCode does not support the 'Snake' or '3D City' animations like GitHub does, as the data is not exposed in the same way. -->
+  <img src="https://leetcard.jacoblin.cool/INSERT_YOUR_LEETCODE_USERNAME_HERE?theme=radical&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
 
 </div>
 
